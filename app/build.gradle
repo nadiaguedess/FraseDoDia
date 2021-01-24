@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId "com.example.frasedodia"
-        //minSdkVersion 30
+        minSdkVersion 30
         //minSdkVersion 23 //Para instalar no Xiaomi
         targetSdkVersion 30
         versionCode 1
